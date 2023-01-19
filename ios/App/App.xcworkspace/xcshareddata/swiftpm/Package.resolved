@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "batch-ios-sdk-extension",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BatchLabs/Batch-iOS-SDK-Extension.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "eac32b7b218a2e36e41353d35290e67c678027a5"
+      }
+    }
+  ],
+  "version" : 2
+}
