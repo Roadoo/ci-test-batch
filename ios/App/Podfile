@@ -21,9 +21,10 @@ end
 target 'App' do
   capacitor_pods
   # Add your Pods here
+  pod 'Batch'
 end
 
-target 'NotificationService' do
+target 'RichNotificationsExtensions' do
   use_frameworks!
   pod 'BatchExtension'
 end
