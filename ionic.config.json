@@ -1,0 +1,7 @@
+{
+  "name": "test-ci-batch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
